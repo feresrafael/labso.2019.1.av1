@@ -1,0 +1,14 @@
+backup-rafael
+final.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+prova1-rafael.txt
+rafael1.txt
+rafael24
+rafael2.txt
+rafael3.txt
+README.md
+ultimocomando.txt
